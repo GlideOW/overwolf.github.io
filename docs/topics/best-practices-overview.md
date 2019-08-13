@@ -17,16 +17,16 @@ This page contains our best practices for developing and implementing your Overw
 * You can see examples for that by looking on the following Fortnite live stats and Game Summary FTUE:
 
 <div class="box" data-slick='{"slidesToShow": 2}'>
-  <a data-fancybox="gallery" data-caption="FortniteLiveStats" href="https://www.youtube.com/watch?v=Su7CTcMlnqw">
-    Fortnite Live Stats
+  <a data-fancybox="gallery" data-caption="Fortnite Live Stars FTUE" href="https://www.youtube.com/watch?v=Su7CTcMlnqw">
+    Fortnite Live Stars FTUE
     <span class="thumb">
-      <img src="https://img.youtube.com/vi/Su7CTcMlnqw/hqdefault.jpg" alt="Fortnite Live Stats">
+      <img src="https://img.youtube.com/vi/Su7CTcMlnqw/hqdefault.jpg" alt="Fortnite Live Stars FTUE">
     </span>
   </a>
-  <a data-fancybox="gallery" data-caption="GameSummary" href="https://www.youtube.com/watch?v=RHWs1erUXew">
-    GameSummary
+  <a data-fancybox="gallery" data-caption="Game Summary FTUE" href="https://www.youtube.com/watch?v=RHWs1erUXew">
+    Game Summary FTUE
     <span class="thumb">
-      <img src="https://img.youtube.com/vi/RHWs1erUXew/hqdefault.jpg"" alt="GameSummary">
+      <img src="https://img.youtube.com/vi/RHWs1erUXew/hqdefault.jpg" alt="Game Summary FTUE">
     </span>
   </a>
 </div>
