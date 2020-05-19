@@ -6,7 +6,7 @@ sidebar_label: Technical checklist
 
 :::note
 Following this technical checklist improves user experience for your app.  
-Seeing as gamer experience is our top priority, making your app the best it can be will be rewarded! Completing the full list of technical recommendations can increase your share of your apps revenues by up to 7%.
+Seeing as gamer experience is our top priority, making your app the best it can be will be rewarded!
 :::
 
 ## Technical Hunter (+3% to rev-share)
